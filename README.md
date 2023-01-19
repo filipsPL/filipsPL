@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Senior Scientist at IIMCB in Warsaw, with PhD in Organic Chemisty and seven years of experience in Pharma Industry R&D. Currently working on new computational methods for RNA-small molecule ligands: binding mode predictions, activity prediction and activity explanation.
+
 <!--
 **filipsPL/filipsPL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
