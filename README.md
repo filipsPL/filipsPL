@@ -6,7 +6,9 @@ Senior Scientist at IIMCB in Warsaw, with PhD in Organic Chemisty and seven year
 
 ## Science
 
-Current: RNA-ligand interactions:
+[Google Scholar record](https://scholar.google.pl/citations?user=NPbqGT8AAAAJ&hl=pl&oi=ao) | orcid: [0000-0001-5758-9416](https://orcid.org/0000-0001-5758-9416)
+
+### RNA-ligand interactions:
 
 - **binding mode prediction** with new scoring function AnnapuRNA. Combination of statistical data extracted from X_rays tructures and Machine Learning.
   - [:octocat: repo](https://github.com/filipspl/AnnapuRNA) | [:page_facing_up: the paper](https://doi.org/10.1371/journal.pcbi.1008309)
@@ -15,7 +17,7 @@ Current: RNA-ligand interactions:
 - Structural Interaction Fingerprints and Machine Learning for **predicting and explaining binding** of small molecule ligands to RNA.
   - [:octocat: repo](https://github.com/filipspl/fingernat-ml/) | [:page_facing_up: preprint](https://doi.org/10.1101/2023.01.11.523582)
 
-Former: protein-ligand interactions
+### protein-ligand interactions
 
 - tox21 challenge
   - [:octocat: repo](https://github.com/filipsPL/tox21_dataset) | [:page_facing_up: the paper](https://doi.org/10.3389/fenvs.2015.00077)
