@@ -2,6 +2,13 @@
 
 Senior Scientist at IIMCB in Warsaw, with PhD in Organic Chemisty and seven years of experience in Pharma Industry R&D (MedChem and Computer Aided Drug Design). Currently working on new computational methods for RNA-small molecule ligands.
 
+- Computing since 1988 (Timex)
+- Programming since 1989 (BASIC and logo 🐢)
+- Chemistry since 1990 (water electrolysis)
+- In the internet since 1994 (EARN and Bitnet, gopher and telnet)
+- Linux since kernel 2.0.39 (freesco)
+- Machine learning since 2010 (Decision Trees and KNIME 2.3.0)
+
 ## ❶ Science 🧬
 
 [Google Scholar record](https://scholar.google.pl/citations?user=NPbqGT8AAAAJ&hl=pl&oi=ao) | orcid: [0000-0001-5758-9416](https://orcid.org/0000-0001-5758-9416)
