@@ -1,6 +1,6 @@
 ## ⓿ Hi there 👋
 
-Senior Scientist at IIMCB in Warsaw, with PhD in Organic Chemisty and seven years of experience in Pharma Industry R&D (MedChem and Computer Aided Drug Design). Currently working on new computational methods for RNA-small molecule ligands.
+Senior Scientist at IIMCB in Warsaw, with PhD in Organic Chemisty and seven years of experience in Pharma Industry R&D (MedChem and Computer Aided Drug Design). Currently working on data-driven computational methods for RNA-small molecule ligands.
 
 - Computing since 1988 (Timex)
 - Programming since 1989 (BASIC and logo 🐢)
@@ -20,7 +20,7 @@ Senior Scientist at IIMCB in Warsaw, with PhD in Organic Chemisty and seven year
 - RNA-ligand **Interaction detection** and classification with fingeRNAt.
   - [:octocat: repo](https://github.com/n-szulc/fingeRNAt/) | [:page_facing_up: the paper](https://doi.org/10.1371/journal.pcbi.1009783)
 - Structural Interaction Fingerprints and Machine Learning for **predicting and explaining binding** of small molecule ligands to RNA.
-  - [:octocat: repo](https://github.com/filipspl/fingernat-ml/) | [:page_facing_up: preprint](https://doi.org/10.1101/2023.01.11.523582)
+  - [:octocat: repo](https://github.com/filipspl/fingernat-ml/) | [:page_facing_up: the paper](https://doi.org/10.1093/bib/bbad187)
 
 ### ⓑ Protein-ligand interactions & proteins
 
