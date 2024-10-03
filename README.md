@@ -28,6 +28,8 @@ Senior Scientist at IIMCB in Warsaw, with PhD in Organic Chemisty and seven year
   - [:octocat: repo](https://github.com/filipsPL/tox21_dataset) | [:page_facing_up: the paper](https://doi.org/10.3389/fenvs.2015.00077)
 - Predict Protein Stability Index (PSI) from the sequence with ML regression
   - [:octocat: repo](https://github.com/filipsPL/degronopedia-ml-psi) | [:page_facing_up: the paper](https://doi.org/10.1101/2022.05.19.492622)
+  - Tox24 challenge - Prediction of Compounds Activity Using ML and Low-Dimensional Molecular Descriptors (2)
+  - [:octocat: repo](https://github.com/filipsPL/tox24challenge)
 
 ## ❷ After-hours science ⚗
 
