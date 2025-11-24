@@ -22,7 +22,7 @@ Senior Scientist at IIMCB in Warsaw, with PhD in Organic Chemisty and seven year
 - Structural Interaction Fingerprints and Machine Learning for **predicting and explaining binding** of small molecule ligands to RNA.
   - [:octocat: repo](https://github.com/filipspl/fingernat-ml/) | [:page_facing_up: the paper](https://doi.org/10.1093/bib/bbad187)
 - Ligand based methods for RNA binders
-  - [:octocat: repo]([https://github.com/filipsPL/rna-ligand-based](https://github.com/filipsPL/rna-ligand-based)) | [:page_facing_up: the paper](https://doi.org/10.1093/bib/xxx)
+  - [:octocat: repo](https://github.com/filipsPL/rna-ligand-based) | [:page_facing_up: the paper](https://doi.org/10.1093/bib/bbaf620)
 
 ### ⓑ Protein-ligand interactions & proteins
 
